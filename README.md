@@ -1,3 +1,7 @@
+### Online Access
+
+# You can access the RTF Editor Web App online [here](#).
+
 # RTF Editor Web App
 
 This is a simple Rich Text Format (RTF) editor web application that allows users to create and edit rich text documents directly in the browser. Users can format text, add lists, align text, insert images, and clear formatting. Additionally, users can save their documents as RTF files.
@@ -19,10 +23,6 @@ This is a simple Rich Text Format (RTF) editor web application that allows users
 4. **Image Upload**: Click on "Insert Image" to upload and insert images into the document.
 5. **Clear Formatting**: Click on "Clear Formatting" to remove all formatting from selected text.
 6. **Save as RTF**: Enter a filename in the text box provided and press Shift + S to save the document as an RTF file.
-
-## Online Access
-
-You can access the RTF Editor Web App online [here](#).
 
 ## Author
 
