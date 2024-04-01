@@ -1,6 +1,6 @@
 ### Online Access
 
-# You can access the RTF Editor Web App online [here](#).
+# [You can access the RTF Editor Web App online here](#).
 
 # RTF Editor Web App
 
