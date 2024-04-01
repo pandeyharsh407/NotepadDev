@@ -22,7 +22,7 @@ This is a simple Rich Text Format (RTF) editor web application that allows users
 3. **Text Alignment**: Align text left, center, or right using the alignment buttons.
 4. **Image Upload**: Click on "Insert Image" to upload and insert images into the document.
 5. **Clear Formatting**: Click on "Clear Formatting" to remove all formatting from selected text.
-6. **Save as RTF**: Enter a filename in the text box provided and press Shift + S to save the document as an RTF file.
+6. **Save as RTF**: Enter a filename in the text box provided and press **Shift + S** to save the document as an RTF file.
 
 ## Author
 
